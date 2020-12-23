@@ -1,0 +1,4 @@
+To enable Scheduled Notifications:
+Go to: chrome://flags#enable-javascript-harmony and select enabled
+Go to: chrome://flags#enable-future-v8-vm-features and select enabled
+Restart your browser
